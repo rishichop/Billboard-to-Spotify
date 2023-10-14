@@ -8,6 +8,8 @@ STEPS:
 3> Head over to the Settings and add your environment variables as SPOTIPY_CLIENT_ID and SPOTIPY_CLIENT_SECRET with their respective values.
    **note: Its not SPOTIFY, its SPOTIPY
 4> Run your program and a new tab will open in your browser which looks like:
+
+
 ![Screenshot 2023-10-14 183529](https://github.com/rishichop/Billboard-to-Spotify/assets/84148892/cfa83918-9786-473e-8af2-9958c992ddbb)
 
 
