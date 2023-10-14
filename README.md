@@ -2,7 +2,13 @@
 
 This program takes top 100 songs of any date from https://www.billboard.com/ and automatically creates a spotify playlist in your account.
 
+Python modules: 
+
+spotipy : Used for connectivity with spotify account.
+requests & beautifulsoup : Used for web scrapping.
+
 STEPS:
+
 1> First head over to Developer Dashboard (https://developer.spotify.com/dashboard) of Spotify and create a app.
 
 2> While creating a app make sure to add "http://example.com" in the Redirect URI field.
