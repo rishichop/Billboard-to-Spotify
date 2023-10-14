@@ -5,6 +5,7 @@ This program takes top 100 songs of any date from https://www.billboard.com/ and
 Python modules: 
 
 spotipy : Used for connectivity with spotify account.
+
 requests & beautifulsoup : Used for web scrapping.
 
 STEPS:
