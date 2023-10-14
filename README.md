@@ -3,7 +3,7 @@
 This program takes top 100 songs of any date from https://www.billboard.com/ and automatically creates a spotify playlist in your account.
 
 STEPS:
-1> First head over to Developer Dashboard (https://developer.spotify.com/dashboard) of Spotify and create a app.
+1> First head over to Developer Dashboard (https://developer.spotify.com/dashboard) of Spotify and create a app. \n
 2> While creating a app make sure to add "http://example.com" in the Redirect URI field.
 3> Head over to the Settings and add your environment variables as SPOTIPY_CLIENT_ID and SPOTIPY_CLIENT_SECRET with their respective values.
    **note: Its not SPOTIFY, its SPOTIPY
